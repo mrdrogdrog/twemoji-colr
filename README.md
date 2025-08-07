@@ -1,3 +1,7 @@
+# DEPRECATED
+
+I dont have time to work on this anymore.
+
 # twemoji-colr
 
 Project to create a COLR/CPAL-based color OpenType font
